@@ -21,25 +21,3 @@ if (num1 % dividendo == 0){
 
     
 }
-
-// if (num1 > 100){
-//     alert("El número 1 NO puede ser Mayor de 100!");
-    
-// }
-// else if (num1 <= 100){
-//     alert("El número 1 NO puede ser Menor de 100");
-// }
-// else if (num2 > 100){
-//     alert("El número 2 NO puede ser Menor de 100");
-// }
-// else if (num2 <= 100){
-//     alert("El número 2 NO puede ser Menor de 100");
-// }
-// else if (num3 > 100){
-//     alert("El número 3 NO puede ser Menor de 100");
-// }
-// else if (num3 <= 100){
-//     alert("El número 3 NO puede ser Menor de 100");
-// }
-
-// else {}
